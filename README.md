@@ -1,7 +1,7 @@
 # Computer Vision Project: PCB Test Point Pad Detection
 
 ## Overview
-In this project, I developed and compared various machine learning models (Logistic Regression, Decision Trees, Random Forests, Artificial Neural Networks) to detect test-point pads on PCB images. The highest accuracy, approaching 100%, was achieved using an Artificial Neural Network (ANN).
+In this project, I developed and compared various machine learning models (K-Means Clustering, Logistic Regression, Decision Trees, Random Forests, Artificial Neural Networks) to detect test-point pads on PCB images. The highest accuracy, approaching 100%, was achieved using an Artificial Neural Network (ANN).
 
 ### Data Source:
 The data used for this project was sourced from Kaggle:  
